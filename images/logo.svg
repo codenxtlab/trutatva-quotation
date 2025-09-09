@@ -1,0 +1,11 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="24" cy="24" r="24" fill="#1E40AF"/>
+  
+  <!-- Code Brackets -->
+  <path d="M16 18L12 24L16 30" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 18L36 24L32 30" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- NXT Text -->
+  <text x="24" y="28" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="8" font-weight="700">NXT</text>
+</svg>
