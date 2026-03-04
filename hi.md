@@ -15,9 +15,9 @@ Question
 
 Answer (40–50 seconds)
 
-> I’m a Python backend developer specializing in AI-powered systems and scalable APIs. I’ve built production backend services using FastAPI and integrated large language models like Gemini and Phi-3.5 into real applications.
-One of my key projects was a privacy-focused RAG system where I designed custom chunking, embedding, and retrieval pipelines to improve response relevance and latency.
-I’m particularly interested in building reliable AI systems and agents by combining LLMs with structured backend services, tools, and evaluation pipelines.
+> Hi, I’m Rishabh Shukla, a Python backend developer focused on building AI-powered applications. I’ve worked extensively with FastAPI to build scalable backend services and have integrated large language models like Gemini and Phi-3.5 into real systems.
+One of my key projects involved building a privacy-focused RAG system where I designed document chunking, embedding, and retrieval pipelines to improve response relevance and latency.
+I’m particularly interested in building reliable AI agents by combining LLM capabilities with structured backend systems, APIs, and evaluation pipelines.
 
 
 
